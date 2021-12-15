@@ -10,7 +10,7 @@ const Navbar = () => {
 
       <nav className="navbar">
         <a style={{ marginRight: "5px" }} href="#home">
-          home
+          Home
         </a>
         <a style={{ marginRight: "5px" }} href="#services">
           Services
