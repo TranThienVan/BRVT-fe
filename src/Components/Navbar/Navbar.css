@@ -12,6 +12,10 @@
   background: #fff;
 }
 
+.nav-header:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
 .nav-header .logo {
   font-size: 2.5rem;
   color: var(--black);

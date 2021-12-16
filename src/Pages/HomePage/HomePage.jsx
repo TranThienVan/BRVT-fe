@@ -5,7 +5,7 @@ import Icon from "../../Components/Icon/Icon";
 
 const HomePage = () => {
   return (
-    <div className="home" id="home">
+    <section className="home" id="home">
       <div className="image">
         <img src={homeURL}></img>
       </div>
@@ -23,9 +23,7 @@ const HomePage = () => {
           <span className="fas fa-chevron-right"></span>
         </a>
       </div>
-
-      <Icon />
-    </div>
+    </section>
   );
 };
 

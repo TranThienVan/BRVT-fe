@@ -21,6 +21,14 @@
   --border: 0.2rem solid var(--green);
 }
 
+section {
+  padding: 2rem 9%;
+}
+
+section:nth-child(even) {
+  background: #f5f5f5;
+}
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;
@@ -32,5 +40,9 @@ html {
 @media (max-width: 991px) {
   html {
     font-size: 55%;
+  }
+
+  section {
+    padding: 2rem;
   }
 }

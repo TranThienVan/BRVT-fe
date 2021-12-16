@@ -3,7 +3,7 @@ import "./Icon.css";
 
 const Icon = () => {
   return (
-    <div className="icons-container">
+    <section className="icons-container">
       <div className="icons">
         <i className="fas fa-user-md"></i>
         <h3>140+</h3>
@@ -27,7 +27,7 @@ const Icon = () => {
         <h3>80+</h3>
         <p>Available hospitals</p>
       </div>
-    </div>
+    </section>
   );
 };
 
