@@ -46,6 +46,7 @@
   color: var(--green);
   cursor: pointer;
   font-size: 1.7rem;
+  background-color: #fff;
 }
 
 .btn span {
