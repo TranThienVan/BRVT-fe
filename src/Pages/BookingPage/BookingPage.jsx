@@ -16,7 +16,7 @@ const BookingPage = () => {
           </div>
 
           <form action="">
-            <h3>Boook appoinment</h3>
+            <h3>Book appoinment</h3>
             <input type="text" placeholder="your name" className="box" />
             <input type="number" placeholder="your number" className="box" />
             <input type="email" placeholder="your email" className="box" />
