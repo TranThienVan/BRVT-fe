@@ -20,3 +20,7 @@
 .footer .box-container .box a i {
   padding-right: 2rem;
 }
+
+.footer .box-container .box a i:hover {
+  color: var(--green);
+}
